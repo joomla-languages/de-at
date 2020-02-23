@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="4.0" client="administrator" method="upgrade">
+	<tag>de-AT</tag>
+	<name>Austrian (Austria)</name>
+	<version>4.0.0.1-alpha1</version>
+	<creationDate>23.02.2020</creationDate>
+	<author>Harald Leithner</author>
+	<authorEmail>harald.leithner@community.joomla.org</authorEmail>
+	<authorUrl>https://github.com/joomla-languages/de-at</authorUrl>
+	<copyright>Copyright (C) 2020 - 2020 All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Österreichische Backend (Administrator)-Übersetzung für Joomla! 4</description>
+	<metadata>
+		<name>Austrian (Austria)</name>
+		<nativeName>Österreichisch (Österreich)</nativeName>
+		<tag>de-AT</tag>
+		<rtl>0</rtl>
+		<locale>de_AT.utf8, de_AT.UTF-8, de_AT, deu_AT, austrian, austrian-at, at, aut, austria</locale>
+		<firstDay>1</firstDay>
+		<weekEnd>0,6</weekEnd>
+		<calendar>gregorian</calendar>
+	</metadata>
+	<params />
+</metafile>

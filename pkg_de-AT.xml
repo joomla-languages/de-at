@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<extension type="package" version="3.9" method="upgrade">
+<extension type="package" version="4.0" method="upgrade">
 	<name>Austrian (Austria) Language Pack (Test Language)</name>
 	<packagename>de-AT</packagename>
 	<version>4.0.0.1-alpha1</version>

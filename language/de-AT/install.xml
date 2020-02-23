@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension version="4.0" type="language" client="site" method="upgrade">
+	<tag>de-AT</tag>
+	<name>Austrian (Austria)</name>
+	<version>4.0.0.1-alpha1</version>
+	<creationDate>23.02.2020</creationDate>
+	<author>Harald Leithner</author>
+	<authorEmail>harald.leithner@community.joomla.org</authorEmail>
+	<authorUrl>https://github.com/joomla-languages/de-at</authorUrl>
+	<copyright>Copyright (C) 2020 - 2020 All rights reserved.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>Österreichische Frontend (Website)-Übersetzung für Joomla! 4</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">de-AT.xml</filename>
+		<filename file="meta">install.xml</filename>
+	</files>
+</extension>
